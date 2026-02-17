@@ -1,2 +1,0 @@
-# sentientconcept
-An example site
